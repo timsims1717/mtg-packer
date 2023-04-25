@@ -1,0 +1,2128 @@
+{
+  "slots": [
+    {
+      "rarity": [
+        "rare",
+        "mythic"
+      ]
+    },
+    {
+      "rarity": [
+        "uncommon"
+      ],
+      "color": [
+        "multicolor"
+      ]
+    },
+    {
+      "rarity": [
+        "uncommon"
+      ],
+      "type": [
+        "artifact"
+      ]
+    },
+    {
+      "rarity": [
+        "uncommon"
+      ]
+    },
+    {
+      "rarity": [
+        "uncommon"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "blue"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "black"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "type": [
+        "artifact"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "name": "Angelic Regulator",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Arrest",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Back in the Saddle",
+      "rarity": "uncommon",
+      "types": [
+        "instant"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Cattle Drive",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Circle the Wagons",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Drag Behind",
+      "rarity": "rare",
+      "types": [
+        "enchantment"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Empty Night",
+      "rarity": "mythic",
+      "types": [
+        "sorcery"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Farajo, Peacemaker",
+      "rarity": "mythic",
+      "types": [
+        "planeswalker"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Farajo's Blessing",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Farajo's Shield",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Featherswine",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Firstfeather Elders",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Fort Redemption Ranger",
+      "rarity": "mythic",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Goat Herder",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Grit",
+      "rarity": "uncommon",
+      "types": [
+        "instant"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Guardian of the Dead",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Guthram Deputy",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "High Noon",
+      "rarity": "rare",
+      "types": [
+        "enchantment"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Hogtie",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Into the Sunset",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Kill Shot",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Manifestation of Destiny",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Naaki Healer",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Naaki Shepherd",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Nimbus Hog",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Paragon Dragonslayer",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Rallyridge Patrolman",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Rallyridge Quartermaster",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Redeemed Lawbringer",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Repel Siege",
+      "rarity": "rare",
+      "types": [
+        "instant"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Roaming Buffalo",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Sacredhoof Wildshaper",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Sheriff's Steed",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Signature Strike",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Smoke the Peace Pipe",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Stunshot Centaur",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Trinket Peddler",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Winged Constable",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "white"
+    },
+    {
+      "name": "Aerial Shootout",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Aven Dealer",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Aven Deputy",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Bulletproof Barrier",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Call Your Bluff",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Career Criminal",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Carnival Illusionist",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Claim Jumper",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Conjure Frost",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Cyclone Rider",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Dowsing Prospector",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Drive Off",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Expulsion",
+      "rarity": "uncommon",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Firstfeather Stormwing",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Forewarn",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Gaile Hannidy",
+      "rarity": "mythic",
+      "types": [
+        "planeswalker"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Giant Catfish",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Gone Fishin'",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Hasty Retreat",
+      "rarity": "uncommon",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Horned Serpent",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Hyastee Sigil",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Hyastee Sphinx",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Lost in the Mist",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Mana Heist",
+      "rarity": "rare",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Manastorm Twister",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Mother Owl's Herald",
+      "rarity": "mythic",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Nimble Spellslinger",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Pan the River",
+      "rarity": "uncommon",
+      "types": [
+        "Sorcery"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Shellback Deputy",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Snake Oil Salesman",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Starry Visions",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Tall Tales",
+      "rarity": "rare",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Tawney's Huckster",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Titan of Cyclones",
+      "rarity": "mythic",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Train Robbery",
+      "rarity": "rare",
+      "types": [
+        "enchantment"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Triggerbane Ward",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Wisdom",
+      "rarity": "rare",
+      "types": [
+        "instant"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Wisewing Wildshaper",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "blue"
+    },
+    {
+      "name": "Bad Blood",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Blightwing Wildshaper",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Bloodshot Coachthief",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Bloodshot Enforcer",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Chupacabra",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Coat with Venom",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Dadgum Varmints",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Dead Man's Hand",
+      "rarity": "rare",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Deal at the Crossroads",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Death Cheater",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Devouring Wendigo",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Festering Blacklung",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Gambler's Ruin",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Ghostly Presence",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Hang",
+      "rarity": "uncommon",
+      "types": [
+        "instant"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Last Will and Testament",
+      "rarity": "rare",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Off the River",
+      "rarity": "rare",
+      "types": [
+        "Sorcery"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Outlaw Necromancer",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Pactbound Simians",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Penetrating Round",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Pine Gulch Bandit",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Riverboat Gambler",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Royal Flush",
+      "rarity": "mythic",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Scavenging Vulture",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "See You in Hell",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Sickening Revival",
+      "rarity": "common",
+      "types": [
+        "Sorcery"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Snallygaster",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Soulless Thieves",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Tar Snare",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Trail Sickness",
+      "rarity": "rare",
+      "types": [
+        "sorcery"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Trestle Butcher",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Twisted Outlaw",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Up to No Good",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Voracious Wendigo",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Wanted",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Wildcard",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Yarona Banshee",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "black"
+    },
+    {
+      "name": "Asigati Fireshaper",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Blaze of Malastrix",
+      "rarity": "rare",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Bloodshot Desperada",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Boomrider",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Calamity Gunslinger",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Caracole",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Cardhall Hooligan",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Cattle Rustler",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Fan the Hammer",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Gamble",
+      "rarity": "mythic",
+      "types": [
+        "Sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Goblin Express",
+      "rarity": "rare",
+      "types": [
+        "enchantment"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Goblin Geologist",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Goblin Sharpshooter",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Greenskin Gambler",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Greenskin Roughrider",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Guns Blazing",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Hoarding Dragon",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Incendiary Round",
+      "rarity": "rare",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Inside Job",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Kayeri Brave",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Lightning Reload",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Maddening Song",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Mantle of Revolution",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Minotaur Chieftan",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Moxenite Blast",
+      "rarity": "common",
+      "types": [
+        "Sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Naaki Gunslinger",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Nain Rogue",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Nothing to Lose",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Quickdraw",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Roselyn, Song of Madness",
+      "rarity": "mythic",
+      "types": [
+        "planeswalker"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Run and Gun",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Steelworker Titan",
+      "rarity": "mythic",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Tawney's Charlatan",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Thunderhoof Wildshaper",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Tie to the Tracks",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Two Smoking Barrels",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Vengeant Pactmaker",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Wrangle",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "red"
+    },
+    {
+      "name": "Centaur Desperado",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Centaur Fieldhand",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Cultivate",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Cyclone Boar",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Diamondback Naga",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Dire Jackalope",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Elusive Sasquatch",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Final Showdown",
+      "rarity": "rare",
+      "types": [
+        "sorcery"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Expedition Corps",
+      "rarity": "mythic",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Fireside",
+      "rarity": "common",
+      "types": [
+        "enchantment"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Home on the Range",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Hyastee Courser",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Ironhoof Ox",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Joint Assault",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Leonin Huntress",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Lumberwood Hidebehind",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Lumberwood Hodag",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Lupine Waltz",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Makade Hexcatcher",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Man Versus Machine",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Motherlode",
+      "rarity": "rare",
+      "types": [
+        "enchantment"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Mountainclaw Bear",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Moxenite Slugs",
+      "rarity": "common",
+      "types": [
+        "sorcery"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Naturalize",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Partnership",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Rain Dancer",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Reach for the Sky",
+      "rarity": "common",
+      "types": [
+        "instant"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Rugged Lumberjack",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Settle",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Silkstrand Wildshaper",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Snapping Hydra",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Stubborn Mule",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Timberland Giant",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Titan of Primacy",
+      "rarity": "mythic",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Village Raid",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Wild Mustang",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Wildshape Mastery",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Centaur Fieldhand",
+      "rarity": "common",
+      "types": [
+        "creature"
+      ],
+      "color": "green"
+    },
+    {
+      "name": "Ace Holden",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Appleseed Ghoul",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Briar Rabbit",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Calamity Machinist",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Dead Aim",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Descent of the Mothmen",
+      "rarity": "uncommon",
+      "types": [
+        "enchantment"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Ironskin Chief",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Karakwa, Kayeri Warchief",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Malastrix",
+      "rarity": "mythic",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Miss Cassidy Sureshot",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Rallyridge Protector",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Redeemed Dead",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Sheriff Josiah Woods",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Skinwalker",
+      "rarity": "rare",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Stickup",
+      "rarity": "rare",
+      "types": [
+        "sorcery"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Stiff-Legged Bear",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Swallowed Whole",
+      "rarity": "rare",
+      "types": [
+        "instant"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Team Hunt",
+      "rarity": "uncommon",
+      "types": [
+        "sorcery"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Watchful Rancher",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Words of the Sages",
+      "rarity": "rare",
+      "types": [
+        "sorcery"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Young Gun",
+      "rarity": "uncommon",
+      "types": [
+        "creature"
+      ],
+      "color": "multicolor"
+    },
+    {
+      "name": "Arachnoid Mk II",
+      "rarity": "uncommon",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Bloodshot Hexgun",
+      "rarity": "rare",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Brainless Scarecrow",
+      "rarity": "common",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Colossus of Railroads",
+      "rarity": "rare",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Double-Barrel Spellgun",
+      "rarity": "rare",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Dual Magelocks",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Freight Train",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Frightshot Pistol",
+      "rarity": "common",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Mechanical Bull",
+      "rarity": "common",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Mug of Beer",
+      "rarity": "common",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Rail Juggernaut",
+      "rarity": "uncommon",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Rancher's Lasso",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Roselyn's Viola",
+      "rarity": "mythic",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Runevolley",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Sammy 'Sixguns' Steelman",
+      "rarity": "rare",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Selfless Engineer",
+      "rarity": "rare",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Sheep's Clothing",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Shortbow",
+      "rarity": "common",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Spellslinger's Sixgun",
+      "rarity": "common",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Steel Stallion",
+      "rarity": "common",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Thunderbolt Revolver",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Tinman Bushranger",
+      "rarity": "rare",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Tinman Deputy",
+      "rarity": "common",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Tinman Grifter",
+      "rarity": "common",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Tinman Posse",
+      "rarity": "uncommon",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Tinman Vaquero",
+      "rarity": "common",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Tomahawk",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Trading Post",
+      "rarity": "rare",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Volatile Ewe",
+      "rarity": "common",
+      "types": [
+        "artifact",
+        "creature"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Boom Town",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Carnivorous Bog",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Farmyard",
+      "rarity": "rare",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Frontier Mission",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Hangman's Rock",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Hoodoo Valley",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Lumber Mill",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Lush Mesa",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Madame Tawney's Saloon",
+      "rarity": "rare",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Moxenite Mine",
+      "rarity": "common",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Poisoned Waterhole",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    },
+    {
+      "name": "Waterworn Gully",
+      "rarity": "uncommon",
+      "types": [
+        "land"
+      ],
+      "color": "colorless"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slots": [
+    {
+      "rarity": [
+        "rare",
+        "mythic"
+      ]
+    },
+    {
+      "rarity": [
+        "uncommon"
+      ]
+    },
+    {
+      "rarity": [
+        "uncommon"
+      ]
+    },
+    {
+      "rarity": [
+        "uncommon"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "white"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "blue"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "black"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "red"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ],
+      "color": [
+        "green"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "common"
+      ]
+    },
+    {
+      "rarity": [
+        "basic"
+      ]
+    }
+  ]
+}
