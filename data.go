@@ -1,10 +1,15 @@
 package main
 
 type Card struct {
-	Color  string   `json:"color"`
-	Name   string   `json:"name"`
-	Rarity string   `json:"rarity"`
-	Types  []string `json:"types"`
+	Color      string   `json:"color"`
+	Name       string   `json:"name"`
+	Rarity     string   `json:"rarity"`
+	SuperTypes []string `json:"supertypes"`
+	Types      []string `json:"types"`
+	SubTypes   []string `json:"subtypes"`
+	ManaValue  int      `json:"manaValue"`
+	Pips       string   `json:"pips"`
+	Tags       []string `json:"tags"`
 }
 
 type Slot struct {
@@ -43,4 +48,14 @@ type Set struct {
 	Planeswalker []Card `json:"-"`
 	Sorcery      []Card `json:"-"`
 	Tribal       []Card `json:"-"`
+
+	SuperOrSub []string
+}
+
+type Player struct {
+	PlayerNum  int
+	CurrPicks  []Card
+	Strats     map[string]int
+	ManaValues map[int]int
+	CreatCnt   int
 }

@@ -52,6 +52,18 @@ func Sort(set *Set) {
 				set.Tribal = append(set.Tribal, card)
 			}
 		}
+		// super types
+		for _, superType := range card.SuperTypes {
+			if !StringIn(superType, set.SuperOrSub) {
+				set.SuperOrSub = append(set.SuperOrSub, superType)
+			}
+		}
+		// subtypes
+		for _, subType := range card.SubTypes {
+			if !StringIn(subType, set.SuperOrSub) {
+				set.SuperOrSub = append(set.SuperOrSub, subType)
+			}
+		}
 	}
 }
 
@@ -92,4 +104,18 @@ func StringIn(s string, a []string) bool {
 		}
 	}
 	return false
+}
+
+func Max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
+
+func Min(a, b int) int {
+	if a < b {
+		return a
+	}
+	return b
 }

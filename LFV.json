@@ -18,9 +18,6 @@
     {
       "rarity": [
         "uncommon"
-      ],
-      "type": [
-        "artifact"
       ]
     },
     {
@@ -112,7 +109,18 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "angel"
+      ],
+      "color": "white",
+      "manaValue": 7,
+      "pips": "4WWW",
+      "tags": [
+        "vision",
+        "evasion",
+        "graveyard",
+        "bomb"
+      ]
     },
     {
       "name": "Asigati Sigil",
@@ -120,7 +128,12 @@
       "types": [
         "enchantment"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "+1/+1"
+      ]
     },
     {
       "name": "Bald Griffin",
@@ -128,7 +141,17 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "griffin"
+      ],
+      "color": "white",
+      "manaValue": 3,
+      "pips": "1WW",
+      "tags": [
+        "creature",
+        "evasion",
+        "fish"
+      ]
     },
     {
       "name": "Baron's Lookout",
@@ -136,7 +159,18 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "human",
+        "scout"
+      ],
+      "color": "white",
+      "manaValue": 1,
+      "pips": "W",
+      "tags": [
+        "legendary",
+        "standoff",
+        "evasion"
+      ]
     },
     {
       "name": "Bison Healer",
@@ -144,7 +178,16 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "minotaur",
+        "bard"
+      ],
+      "color": "white",
+      "manaValue": 4,
+      "pips": "2WW",
+      "tags": [
+        "vision"
+      ]
     },
     {
       "name": "Black Bear",
@@ -152,7 +195,16 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "bear"
+      ],
+      "color": "white",
+      "manaValue": 4,
+      "pips": "3W",
+      "tags": [
+        "bear",
+        "defense"
+      ]
     },
     {
       "name": "Black Bear Cub",
@@ -160,7 +212,16 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "bear"
+      ],
+      "color": "white",
+      "manaValue": 1,
+      "pips": "W",
+      "tags": [
+        "bear",
+        "defense"
+      ]
     },
     {
       "name": "Bountiful Valley",
@@ -168,7 +229,16 @@
       "types": [
         "enchantment"
       ],
-      "color": "white"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "white",
+      "manaValue": 3,
+      "pips": "1WW",
+      "tags": [
+        "landAuras",
+        "bomb"
+      ]
     },
     {
       "name": "Breakout",
@@ -176,7 +246,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 1,
+      "pips": "W",
+      "tags": [
+        "renown",
+        "isCreature"
+      ]
     },
     {
       "name": "Cloud Herd",
@@ -184,7 +260,17 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "ox"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "WW",
+      "tags": [
+        "farmAnimals",
+        "aggro",
+        "evasion"
+      ]
     },
     {
       "name": "Farajo's Boon",
@@ -192,15 +278,28 @@
       "types": [
         "Sorcery"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 1,
+      "pips": "W",
+      "tags": [
+        "green",
+        "reflex",
+        "protection"
+      ]
     },
     {
-      "name": "Farajo's Vision",
+      "name": "Dreams of Peace",
       "rarity": "uncommon",
       "types": [
         "enchantment"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 4,
+      "pips": "2WW",
+      "tags": [
+        "vision",
+        "removal"
+      ]
     },
     {
       "name": "Frontier Chirurgeon",
@@ -208,23 +307,49 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "human",
+        "cleric"
+      ],
+      "color": "white",
+      "manaValue": 3,
+      "pips": "2W",
+      "tags": [
+        "standoff",
+        "graveyard"
+      ]
     },
     {
-      "name": "Galloping Charge",
+      "name": "On the Warpath",
       "rarity": "uncommon",
       "types": [
         "instant"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 4,
+      "pips": "2WW",
+      "tags": [
+        "standoff",
+        "aggro"
+      ]
     },
     {
-      "name": "Guthram Captain",
+      "name": "Guthram Marshal",
       "rarity": "common",
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "centaur",
+        "soldier"
+      ],
+      "color": "white",
+      "manaValue": 5,
+      "pips": "4W",
+      "tags": [
+        "standoff",
+        "aggro"
+      ]
     },
     {
       "name": "Horned Ambusher",
@@ -232,7 +357,16 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "lizard"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "WW",
+      "tags": [
+        "green",
+        "aura"
+      ]
     },
     {
       "name": "Hyastee Armor",
@@ -240,7 +374,17 @@
       "types": [
         "enchantment"
       ],
-      "color": "white"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "white",
+      "manaValue": 1,
+      "pips": "W",
+      "tags": [
+        "red",
+        "reflex",
+        "aggro"
+      ]
     },
     {
       "name": "Jackalope Warren",
@@ -248,15 +392,38 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "rabbit"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "landAuras",
+        "protection"
+      ]
     },
     {
       "name": "K. C. Stonefellow",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "orc",
+        "noble"
+      ],
+      "color": "white",
+      "manaValue": 4,
+      "pips": "3W",
+      "tags": [
+        "standoff",
+        "protection",
+        "bomb"
+      ]
     },
     {
       "name": "Masked Avenger",
@@ -264,15 +431,42 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "human",
+        "rogue"
+      ],
+      "color": "white",
+      "manaValue": 3,
+      "pips": "2W",
+      "tags": [
+        "spellslinger",
+        "renown",
+        "aggro"
+      ]
     },
     {
       "name": "Mother Owl",
       "rarity": "mythic",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "bird",
+        "spirit"
+      ],
+      "color": "white",
+      "manaValue": 4,
+      "pips": "2WW",
+      "tags": [
+        "bird",
+        "vision",
+        "removal",
+        "evasion",
+        "bomb"
+      ]
     },
     {
       "name": "Moxenite Discovery",
@@ -280,7 +474,17 @@
       "types": [
         "enchantment"
       ],
-      "color": "white"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "landAuras",
+        "standoff",
+        "advantage"
+      ]
     },
     {
       "name": "Over the Cliff",
@@ -288,7 +492,12 @@
       "types": [
         "instant"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Ozuawe Bison Tamer",
@@ -296,7 +505,19 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "human",
+        "warrior"
+      ],
+      "color": "white",
+      "manaValue": 3,
+      "pips": "2W",
+      "tags": [
+        "red",
+        "farmAnimals",
+        "vision",
+        "aggro"
+      ]
     },
     {
       "name": "Ozuawe Patrol",
@@ -304,7 +525,17 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "human",
+        "scout"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "+1/+1",
+        "vision"
+      ]
     },
     {
       "name": "Point Blank",
@@ -312,7 +543,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 1,
+      "pips": "W",
+      "tags": [
+        "black",
+        "reflex",
+        "removal"
+      ]
     },
     {
       "name": "Red Fish Run",
@@ -320,7 +558,16 @@
       "types": [
         "enchantment"
       ],
-      "color": "white"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "white",
+      "manaValue": 3,
+      "pips": "2W",
+      "tags": [
+        "landAuras",
+        "fish"
+      ]
     },
     {
       "name": "Redemption Crackshot",
@@ -328,7 +575,17 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "human",
+        "soldier"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "standoff",
+        "equipment"
+      ]
     },
     {
       "name": "Haul In",
@@ -336,7 +593,17 @@
       "types": [
         "enchantment"
       ],
-      "color": "white"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "lockdown",
+        "standoff",
+        "removal"
+      ]
     },
     {
       "name": "Ride Again",
@@ -344,7 +611,16 @@
       "types": [
         "sorcery"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 6,
+      "pips": "5W",
+      "tags": [
+        "legendary",
+        "equipment",
+        "standoff",
+        "graveyard",
+        "bomb"
+      ]
     },
     {
       "name": "Roselyn's Lament",
@@ -352,15 +628,34 @@
       "types": [
         "instant"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "defense",
+        "protection"
+      ]
     },
     {
-      "name": "Sheriff's Posse",
+      "name": "Jesse Hyde, Gunslinger",
       "rarity": "uncommon",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "yeti",
+        "soldier"
+      ],
+      "color": "white",
+      "manaValue": 4,
+      "pips": "2WW",
+      "tags": [
+        "modified",
+        "protection"
+      ]
     },
     {
       "name": "Snow Griffin",
@@ -368,7 +663,16 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "griffin"
+      ],
+      "color": "white",
+      "manaValue": 3,
+      "pips": "2W",
+      "tags": [
+        "landAuras",
+        "evasion"
+      ]
     },
     {
       "name": "Apprehend",
@@ -376,7 +680,12 @@
       "types": [
         "sorcery"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Tinman Protector",
@@ -385,7 +694,17 @@
         "artifact",
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "angel"
+      ],
+      "color": "white",
+      "manaValue": 5,
+      "pips": "4W",
+      "tags": [
+        "creature",
+        "evasion",
+        "tokens"
+      ]
     },
     {
       "name": "Trusty Retriever",
@@ -393,7 +712,18 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "dog"
+      ],
+      "color": "white",
+      "manaValue": 4,
+      "pips": "3W",
+      "tags": [
+        "+1/+1",
+        "enchantment",
+        "artifact",
+        "graveyard"
+      ]
     },
     {
       "name": "Turkey Vulture",
@@ -401,7 +731,18 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "bird"
+      ],
+      "color": "white",
+      "manaValue": 6,
+      "pips": "5W",
+      "tags": [
+        "black",
+        "evasion",
+        "graveyard",
+        "protection"
+      ]
     },
     {
       "name": "Uncanny Draw",
@@ -409,7 +750,13 @@
       "types": [
         "instant"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 1,
+      "pips": "W",
+      "tags": [
+        "modified",
+        "removal"
+      ]
     },
     {
       "name": "Wampus Cat",
@@ -417,7 +764,17 @@
       "types": [
         "creature"
       ],
-      "color": "white"
+      "subtypes": [
+        "cat"
+      ],
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "blue",
+        "vision",
+        "evasion"
+      ]
     },
     {
       "name": "Winter Winds",
@@ -425,7 +782,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "white"
+      "color": "white",
+      "manaValue": 2,
+      "pips": "1W",
+      "tags": [
+        "blue",
+        "reflex"
+      ]
     },
     {
       "name": "Arcane Lasso",
@@ -433,7 +796,16 @@
       "types": [
         "enchantment"
       ],
-      "color": "blue"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "lockdown",
+        "removal"
+      ]
     },
     {
       "name": "Asigati Seer",
@@ -441,7 +813,17 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "bird",
+        "shaman"
+      ],
+      "color": "blue",
+      "manaValue": 4,
+      "pips": "3U",
+      "tags": [
+        "vision",
+        "evasion"
+      ]
     },
     {
       "name": "Artificer's Gramophone",
@@ -449,7 +831,13 @@
       "types": [
         "artifact"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "UU",
+      "tags": [
+        "spellslinger",
+        "bomb"
+      ]
     },
     {
       "name": "Aven Bounty Hunter",
@@ -457,7 +845,18 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "bird",
+        "soldier"
+      ],
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "2U",
+      "tags": [
+        "white",
+        "bird",
+        "evasion"
+      ]
     },
     {
       "name": "Boarback Artificer",
@@ -465,7 +864,18 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "human",
+        "artificer"
+      ],
+      "color": "blue",
+      "manaValue": 5,
+      "pips": "3UU",
+      "tags": [
+        "artifact",
+        "advantage",
+        "evasion"
+      ]
     },
     {
       "name": "Cover Fire",
@@ -473,7 +883,13 @@
       "types": [
         "instant"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "1UU",
+      "tags": [
+        "standoff",
+        "removal"
+      ]
     },
     {
       "name": "Desert Outrider",
@@ -481,7 +897,20 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "bird",
+        "scout"
+      ],
+      "color": "blue",
+      "manaValue": 4,
+      "pips": "2UU",
+      "tags": [
+        "green",
+        "aura",
+        "reflex",
+        "evasion",
+        "graveyard"
+      ]
     },
     {
       "name": "Dumbfound",
@@ -489,7 +918,12 @@
       "types": [
         "instant"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 1,
+      "pips": "XU",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Entrancing Melody",
@@ -497,7 +931,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "XUU",
+      "tags": [
+        "removal",
+        "bomb"
+      ]
     },
     {
       "name": "Farajo's Warning",
@@ -505,7 +945,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 1,
+      "pips": "U",
+      "tags": [
+        "vision",
+        "graveyard"
+      ]
     },
     {
       "name": "Gunmage Ward",
@@ -513,7 +959,13 @@
       "types": [
         "instant"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 1,
+      "pips": "U",
+      "tags": [
+        "standoff",
+        "protection"
+      ]
     },
     {
       "name": "Hazardous Mining",
@@ -521,7 +973,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 5,
+      "pips": "4U",
+      "tags": [
+        "reflex",
+        "black",
+        "advantage"
+      ]
     },
     {
       "name": "Hired Mole",
@@ -529,7 +988,19 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "mole",
+        "rogue"
+      ],
+      "color": "blue",
+      "manaValue": 4,
+      "pips": "3U",
+      "tags": [
+        "standoff",
+        "red",
+        "aggro",
+        "protection"
+      ]
     },
     {
       "name": "Hyastee Thunderers",
@@ -537,7 +1008,16 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "human",
+        "shaman"
+      ],
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "2U",
+      "tags": [
+        "spellslinger"
+      ]
     },
     {
       "name": "Hyastee Windrider",
@@ -545,7 +1025,19 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "human",
+        "shaman"
+      ],
+      "color": "blue",
+      "manaValue": 7,
+      "pips": "4UUU",
+      "tags": [
+        "vision",
+        "evasion",
+        "removal",
+        "bomb"
+      ]
     },
     {
       "name": "Lake Monster",
@@ -553,7 +1045,16 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "serpent"
+      ],
+      "color": "blue",
+      "manaValue": 5,
+      "pips": "3UU",
+      "tags": [
+        "spellslinger",
+        "dimir"
+      ]
     },
     {
       "name": "Longhorn Engineer",
@@ -561,7 +1062,16 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "minotaur"
+      ],
+      "color": "blue",
+      "manaValue": 6,
+      "pips": "5U",
+      "tags": [
+        "artifact",
+        "graveyard"
+      ]
     },
     {
       "name": "Muddled Investigation",
@@ -569,7 +1079,12 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "2U",
+      "tags": [
+        "advantage"
+      ]
     },
     {
       "name": "Nile Erimau, Inventionnaire",
@@ -577,7 +1092,17 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "human",
+        "artificer"
+      ],
+      "color": "blue",
+      "manaValue": 4,
+      "pips": "3U",
+      "tags": [
+        "artifact",
+        "reflex"
+      ]
     },
     {
       "name": "Nile's Tinkering",
@@ -585,7 +1110,16 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "reflex",
+        "red",
+        "isCreature",
+        "discard",
+        "cantrip"
+      ]
     },
     {
       "name": "Ozuawe Sigil",
@@ -593,7 +1127,13 @@
       "types": [
         "enchantment"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "spellslinger",
+        "graveyard"
+      ]
     },
     {
       "name": "Patient Heron",
@@ -601,7 +1141,17 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "bird"
+      ],
+      "color": "blue",
+      "manaValue": 1,
+      "pips": "U",
+      "tags": [
+        "reflex",
+        "white",
+        "evasion"
+      ]
     },
     {
       "name": "Peaceful Meditation",
@@ -609,7 +1159,13 @@
       "types": [
         "instant"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 1,
+      "pips": "U",
+      "tags": [
+        "vision",
+        "removal"
+      ]
     },
     {
       "name": "Portent of Smoke",
@@ -617,7 +1173,15 @@
       "types": [
         "enchantment"
       ],
-      "color": "blue"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "2U",
+      "tags": [
+        "lockdown"
+      ]
     },
     {
       "name": "Prickly Porcupine",
@@ -625,7 +1189,12 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "porcupine"
+      ],
+      "color": "blue",
+      "manaValue": 1,
+      "pips": "U"
     },
     {
       "name": "Professional Rustler",
@@ -633,7 +1202,16 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "orc",
+        "rogue"
+      ],
+      "color": "blue",
+      "manaValue": 4,
+      "pips": "3U",
+      "tags": [
+        "standoff"
+      ]
     },
     {
       "name": "Kickback",
@@ -641,7 +1219,9 @@
       "types": [
         "instant"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 1,
+      "pips": "U"
     },
     {
       "name": "Shock Brawler",
@@ -649,7 +1229,16 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "human",
+        "artificer"
+      ],
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "artifact"
+      ]
     },
     {
       "name": "Show Your Hand",
@@ -657,7 +1246,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "straight",
+        "mill"
+      ]
     },
     {
       "name": "Skyfish Mount",
@@ -665,7 +1260,17 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "fish"
+      ],
+      "color": "blue",
+      "manaValue": 5,
+      "pips": "3UU",
+      "tags": [
+        "reflex",
+        "advantage",
+        "evasion"
+      ]
     },
     {
       "name": "Snowslide",
@@ -673,7 +1278,9 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 5,
+      "pips": "4U"
     },
     {
       "name": "Sluice",
@@ -681,7 +1288,13 @@
       "types": [
         "instant"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "2U",
+      "tags": [
+        "standoff",
+        "advantage"
+      ]
     },
     {
       "name": "Spiritual Attunement",
@@ -689,7 +1302,17 @@
       "types": [
         "enchantment"
       ],
-      "color": "blue"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "reflex",
+        "green",
+        "advantage"
+      ]
     },
     {
       "name": "The Horse Twins",
@@ -697,7 +1320,19 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "horse",
+        "spirit"
+      ],
+      "color": "blue",
+      "manaValue": 4,
+      "pips": "2UU",
+      "tags": [
+        "vision",
+        "advantage",
+        "horse",
+        "bomb"
+      ]
     },
     {
       "name": "The Twin's Herd",
@@ -705,7 +1340,16 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "horse"
+      ],
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "vision",
+        "discard"
+      ]
     },
     {
       "name": "Thunderhawk",
@@ -713,7 +1357,15 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "bird"
+      ],
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "2U",
+      "tags": [
+        "vision"
+      ]
     },
     {
       "name": "Tinman Snowstrider",
@@ -722,7 +1374,16 @@
         "artifact",
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "construct"
+      ],
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "reflex",
+        "protection"
+      ]
     },
     {
       "name": "Totemic Calling",
@@ -730,7 +1391,13 @@
       "types": [
         "instant"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 2,
+      "pips": "1U",
+      "tags": [
+        "vision",
+        "advantage"
+      ]
     },
     {
       "name": "Visionweave",
@@ -738,7 +1405,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "blue"
+      "color": "blue",
+      "manaValue": 8,
+      "pips": "6UU",
+      "tags": [
+        "vision",
+        "spellslinger",
+        "bomb"
+      ]
     },
     {
       "name": "Witchhunter Mercenary",
@@ -746,7 +1420,18 @@
       "types": [
         "creature"
       ],
-      "color": "blue"
+      "subtypes": [
+        "human",
+        "soldier"
+      ],
+      "color": "blue",
+      "manaValue": 3,
+      "pips": "2U",
+      "tags": [
+        "reflex",
+        "discard",
+        "+1/+1"
+      ]
     },
     {
       "name": "Alpha Mothman",
@@ -754,7 +1439,13 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "insect",
+        "horror"
+      ],
+      "color": "black",
+      "manaValue": 3,
+      "pips": "1BB"
     },
     {
       "name": "Asigati Raider",
@@ -762,7 +1453,18 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "human",
+        "warrior"
+      ],
+      "color": "black",
+      "manaValue": 3,
+      "pips": "2B",
+      "tags": [
+        "vision",
+        "advantage",
+        "aggro"
+      ]
     },
     {
       "name": "Bloodthirst Pact",
@@ -770,7 +1472,15 @@
       "types": [
         "enchantment"
       ],
-      "color": "black"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "vampires"
+      ]
     },
     {
       "name": "Brother Raven",
@@ -778,7 +1488,20 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "bird",
+        "spirit"
+      ],
+      "color": "black",
+      "manaValue": 3,
+      "pips": "1BB",
+      "tags": [
+        "discard",
+        "bird",
+        "vision",
+        "evasion",
+        "bomb"
+      ]
     },
     {
       "name": "Brother Raven's Pactmaker",
@@ -786,7 +1509,16 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "vampire",
+        "scout"
+      ],
+      "color": "black",
+      "manaValue": 3,
+      "pips": "2B",
+      "tags": [
+        "vision"
+      ]
     },
     {
       "name": "Cornered",
@@ -794,7 +1526,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 3,
+      "pips": "1BB",
+      "tags": [
+        "wolf",
+        "removal"
+      ]
     },
     {
       "name": "Deal with the Devil",
@@ -802,7 +1540,13 @@
       "types": [
         "instant"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 4,
+      "pips": "3B",
+      "tags": [
+        "straight",
+        "advantage"
+      ]
     },
     {
       "name": "Demon Storm",
@@ -810,7 +1554,12 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 4,
+      "pips": "2BB",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Demonic Collection",
@@ -818,7 +1567,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "standoff",
+        "removal"
+      ]
     },
     {
       "name": "Gallows Dodger",
@@ -826,7 +1581,18 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "human",
+        "rogue"
+      ],
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "red",
+        "standoff",
+        "discard"
+      ]
     },
     {
       "name": "Junction Demon",
@@ -834,7 +1600,16 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "demon"
+      ],
+      "color": "black",
+      "manaValue": 5,
+      "pips": "3BB",
+      "tags": [
+        "farmAnimals",
+        "evasion"
+      ]
     },
     {
       "name": "Grave Ambush",
@@ -842,7 +1617,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 5,
+      "pips": "3BB",
+      "tags": [
+        "white",
+        "reflex",
+        "graveyard"
+      ]
     },
     {
       "name": "Lewis of the Crossroads",
@@ -850,7 +1632,15 @@
       "types": [
         "planeswalker"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 3,
+      "pips": "1BB",
+      "tags": [
+        "vampire",
+        "advantage",
+        "removal",
+        "bomb"
+      ]
     },
     {
       "name": "Makade Ritual",
@@ -858,7 +1648,16 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "vision",
+        "vampire",
+        "zombie",
+        "skeleton",
+        "graveyard"
+      ]
     },
     {
       "name": "Makade Sigil",
@@ -866,7 +1665,12 @@
       "types": [
         "enchantment"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "discard"
+      ]
     },
     {
       "name": "Makade Undead",
@@ -874,7 +1678,17 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "zombie"
+      ],
+      "color": "black",
+      "manaValue": 3,
+      "pips": "2B",
+      "tags": [
+        "vision",
+        "aggro",
+        "graveyard"
+      ]
     },
     {
       "name": "Makade Tracker",
@@ -882,7 +1696,17 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "human",
+        "scout"
+      ],
+      "color": "black",
+      "manaValue": 4,
+      "pips": "2BB",
+      "tags": [
+        "vision",
+        "graveyard"
+      ]
     },
     {
       "name": "Mournful Wendigo",
@@ -890,7 +1714,15 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "vampire"
+      ],
+      "color": "black",
+      "manaValue": 4,
+      "pips": "3B",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Orcish Renegade",
@@ -898,7 +1730,13 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "orc",
+        "rogue"
+      ],
+      "color": "black",
+      "manaValue": 6,
+      "pips": "5B"
     },
     {
       "name": "Pale Enforcer",
@@ -906,7 +1744,16 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "zombie"
+      ],
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "standoff",
+        "evasion"
+      ]
     },
     {
       "name": "Pine Gulch Naga",
@@ -914,7 +1761,17 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "naga",
+        "rogue"
+      ],
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "renown",
+        "removal"
+      ]
     },
     {
       "name": "Rabies",
@@ -922,23 +1779,54 @@
       "types": [
         "enchantment"
       ],
-      "color": "black"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "removal",
+        "red",
+        "aggro"
+      ]
     },
     {
       "name": "Raul Costa, Pine Gulch Leader",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "human",
+        "rogue",
+        "protection"
+      ],
+      "color": "black",
+      "manaValue": 5,
+      "pips": "3BB",
+      "tags": [
+        "renown",
+        "creature",
+        "protection",
+        "bomb"
+      ]
     },
     {
-      "name": "Raven Rain",
+      "name": "Brother Raven's Rain",
       "rarity": "uncommon",
       "types": [
         "enchantment"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 3,
+      "pips": "1BB",
+      "tags": [
+        "aggro"
+      ]
     },
     {
       "name": "Reader of Bones",
@@ -946,7 +1834,17 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "human",
+        "shaman"
+      ],
+      "color": "black",
+      "manaValue": 3,
+      "pips": "1BB",
+      "tags": [
+        "discard",
+        "blue"
+      ]
     },
     {
       "name": "Revenge of the Miners",
@@ -954,7 +1852,13 @@
       "types": [
         "enchantment"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 2,
+      "pips": "BB",
+      "tags": [
+        "standoff",
+        "creature"
+      ]
     },
     {
       "name": "Saloon Shade",
@@ -962,7 +1866,16 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "demon"
+      ],
+      "color": "black",
+      "manaValue": 4,
+      "pips": "2BB",
+      "tags": [
+        "standoff",
+        "aggro"
+      ]
     },
     {
       "name": "Shadow Crawlers",
@@ -970,7 +1883,16 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "demon"
+      ],
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "+1/+1",
+        "aggro"
+      ]
     },
     {
       "name": "Scene of the Crime",
@@ -978,7 +1900,12 @@
       "types": [
         "instant"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Soot Belcher",
@@ -987,7 +1914,17 @@
         "artifact",
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "construct"
+      ],
+      "color": "black",
+      "manaValue": 7,
+      "pips": "6B",
+      "tags": [
+        "discard",
+        "evasion",
+        "protection"
+      ]
     },
     {
       "name": "Sundown Raid",
@@ -995,7 +1932,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "reflex",
+        "blue",
+        "mill"
+      ]
     },
     {
       "name": "Sundrinker",
@@ -1003,7 +1947,18 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "demon"
+      ],
+      "color": "black",
+      "manaValue": 7,
+      "pips": "4BBB",
+      "tags": [
+        "vision",
+        "evasion",
+        "removal",
+        "bomb"
+      ]
     },
     {
       "name": "Suspicion",
@@ -1011,7 +1966,12 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "discard"
+      ]
     },
     {
       "name": "Thicket Trap",
@@ -1019,7 +1979,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 1,
+      "pips": "B",
+      "tags": [
+        "aggro",
+        "removal"
+      ]
     },
     {
       "name": "Unbreakable Will",
@@ -1027,7 +1993,16 @@
       "types": [
         "enchantment"
       ],
-      "color": "black"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "black",
+      "manaValue": 4,
+      "pips": "3B",
+      "tags": [
+        "green",
+        "protection"
+      ]
     },
     {
       "name": "Undead Elk",
@@ -1035,7 +2010,16 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "zombie",
+        "elk"
+      ],
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "green"
+      ]
     },
     {
       "name": "Under the Table",
@@ -1043,7 +2027,12 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "discard"
+      ]
     },
     {
       "name": "Outlaw Justice",
@@ -1051,7 +2040,13 @@
       "types": [
         "instant"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 3,
+      "pips": "2B",
+      "tags": [
+        "standoff",
+        "removal"
+      ]
     },
     {
       "name": "Vulture Pegasus",
@@ -1059,7 +2054,17 @@
       "types": [
         "creature"
       ],
-      "color": "black"
+      "subtypes": [
+        "vampire",
+        "horse"
+      ],
+      "color": "black",
+      "manaValue": 2,
+      "pips": "1B",
+      "tags": [
+        "aggro",
+        "evasion"
+      ]
     },
     {
       "name": "Zombie Camp",
@@ -1067,7 +2072,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "black"
+      "color": "black",
+      "manaValue": 5,
+      "pips": "4B",
+      "tags": [
+        "standoff",
+        "isCreature"
+      ]
     },
     {
       "name": "Calamity Electromancer",
@@ -1075,7 +2086,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "human",
+        "artificer"
+      ],
+      "color": "red",
+      "manaValue": 4,
+      "pips": "2RR",
+      "tags": [
+        "artifact",
+        "blue"
+      ]
     },
     {
       "name": "Chicken Rider",
@@ -1083,7 +2104,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "goblin",
+        "rogue"
+      ],
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "goblin",
+        "modified"
+      ]
     },
     {
       "name": "Derail",
@@ -1091,7 +2122,13 @@
       "types": [
         "instant"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "ramp",
+        "removal"
+      ]
     },
     {
       "name": "Dynamox",
@@ -1099,7 +2136,12 @@
       "types": [
         "artifact"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "aggro"
+      ]
     },
     {
       "name": "Fast on the Draw",
@@ -1107,7 +2149,13 @@
       "types": [
         "instant"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 4,
+      "pips": "2RR",
+      "tags": [
+        "modified",
+        "removal"
+      ]
     },
     {
       "name": "Flame Belch",
@@ -1115,7 +2163,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 1,
+      "pips": "R",
+      "tags": [
+        "vision",
+        "removal"
+      ]
     },
     {
       "name": "Flame-Haired Stranger",
@@ -1123,7 +2177,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "elemental",
+        "soldier"
+      ],
+      "color": "red",
+      "manaValue": 2,
+      "pips": "RR",
+      "tags": [
+        "modified",
+        "removal"
+      ]
     },
     {
       "name": "Goblin Explosioneer",
@@ -1131,7 +2195,18 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "goblin",
+        "artificer"
+      ],
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "reflex",
+        "black",
+        "creature"
+      ]
     },
     {
       "name": "Goblin Militia",
@@ -1139,15 +2214,41 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "goblin",
+        "soldier"
+      ],
+      "color": "red",
+      "manaValue": 3,
+      "pips": "2R",
+      "tags": [
+        "equipment",
+        "ramp",
+        "discard"
+      ]
     },
     {
       "name": "Grandfather Bear",
       "rarity": "mythic",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "bear",
+        "spirit"
+      ],
+      "color": "red",
+      "manaValue": 4,
+      "pips": "2RR",
+      "tags": [
+        "bear",
+        "ramp",
+        "evasion",
+        "bomb"
+      ]
     },
     {
       "name": "Greenskin Glider",
@@ -1155,7 +2256,19 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "goblin"
+      ],
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "evasion",
+        "artifact",
+        "reflex",
+        "blue",
+        "graveyard"
+      ]
     },
     {
       "name": "The 'Ole Hat Trick",
@@ -1163,7 +2276,12 @@
       "types": [
         "instant"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 3,
+      "pips": "2R",
+      "tags": [
+        "aggro"
+      ]
     },
     {
       "name": "Karakwa's Bloodthirst",
@@ -1171,7 +2289,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 6,
+      "pips": "4RR",
+      "tags": [
+        "removal",
+        "bomb"
+      ]
     },
     {
       "name": "Karakwa's Flamesculptor",
@@ -1179,7 +2303,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "wolf",
+        "shaman"
+      ],
+      "color": "red",
+      "manaValue": 3,
+      "pips": "2R",
+      "tags": [
+        "advantage",
+        "removal"
+      ]
     },
     {
       "name": "Kayeri Sentinel",
@@ -1187,7 +2321,16 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "fox",
+        "archer"
+      ],
+      "color": "red",
+      "manaValue": 4,
+      "pips": "3R",
+      "tags": [
+        "vision"
+      ]
     },
     {
       "name": "Kayeri Sigil",
@@ -1195,7 +2338,12 @@
       "types": [
         "enchantment"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "aggro"
+      ]
     },
     {
       "name": "Kayeri Wolf Sister",
@@ -1203,7 +2351,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "human",
+        "warrior"
+      ],
+      "color": "red",
+      "manaValue": 1,
+      "pips": "R",
+      "tags": [
+        "wolf",
+        "vision"
+      ]
     },
     {
       "name": "Kidnap",
@@ -1211,7 +2369,9 @@
       "types": [
         "sorcery"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R"
     },
     {
       "name": "Lightning Tale",
@@ -1219,7 +2379,14 @@
       "types": [
         "instant"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "vision",
+        "advantage",
+        "discard"
+      ]
     },
     {
       "name": "Magelock Walker",
@@ -1228,7 +2395,16 @@
         "artifact",
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "construct"
+      ],
+      "color": "red",
+      "manaValue": 6,
+      "pips": "5R",
+      "tags": [
+        "artifact",
+        "defense"
+      ]
     },
     {
       "name": "Moxenite Artillery",
@@ -1236,7 +2412,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "reflex",
+        "white",
+        "removal"
+      ]
     },
     {
       "name": "Naaki Watcher",
@@ -1244,7 +2427,18 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "human",
+        "warrior"
+      ],
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "vision",
+        "aggro",
+        "discard"
+      ]
     },
     {
       "name": "Orcish Gunslinger",
@@ -1252,7 +2446,18 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "orc",
+        "soldier"
+      ],
+      "color": "red",
+      "manaValue": 6,
+      "pips": "4RR",
+      "tags": [
+        "equipment",
+        "graveyard",
+        "modified"
+      ]
     },
     {
       "name": "Phoenixheart Shaman",
@@ -1260,7 +2465,20 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "human",
+        "shaman"
+      ],
+      "color": "red",
+      "manaValue": 7,
+      "pips": "4RRR",
+      "tags": [
+        "vision",
+        "advantage",
+        "evasion",
+        "graveyard",
+        "bomb"
+      ]
     },
     {
       "name": "Pin Down",
@@ -1268,15 +2486,30 @@
       "types": [
         "enchantment"
       ],
-      "color": "red"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "aggro",
+        "lockdown",
+        "ramp"
+      ]
     },
     {
-      "name": "Pine Gulch Hold Up",
+      "name": "Pine Gulch Requisition",
       "rarity": "uncommon",
       "types": [
         "sorcery"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 4,
+      "pips": "2RR",
+      "tags": [
+        "standoff"
+      ]
     },
     {
       "name": "Pull the Trigger",
@@ -1284,7 +2517,13 @@
       "types": [
         "instant"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "1R",
+      "tags": [
+        "standoff",
+        "removal"
+      ]
     },
     {
       "name": "Reptilian Lackey",
@@ -1292,7 +2531,19 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "viashino",
+        "soldier"
+      ],
+      "color": "red",
+      "manaValue": 3,
+      "pips": "2R",
+      "tags": [
+        "standoff",
+        "advantage",
+        "evasion",
+        "aggro"
+      ]
     },
     {
       "name": "Rig the Pass",
@@ -1300,7 +2551,12 @@
       "types": [
         "sorcery"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 2,
+      "pips": "XRR",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Roughrider's Strike",
@@ -1308,7 +2564,15 @@
       "types": [
         "sorcery"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 1,
+      "pips": "XR",
+      "tags": [
+        "reflex",
+        "green",
+        "ramp",
+        "aggro"
+      ]
     },
     {
       "name": "Sore Loser",
@@ -1316,7 +2580,13 @@
       "types": [
         "instant"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 1,
+      "pips": "R",
+      "tags": [
+        "straight",
+        "aggro"
+      ]
     },
     {
       "name": "Stalking Wendigo",
@@ -1324,7 +2594,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "vampire"
+      ],
+      "color": "red",
+      "manaValue": 5,
+      "pips": "4R",
+      "tags": [
+        "evasion",
+        "aggro",
+        "+1/+1"
+      ]
     },
     {
       "name": "Stampede Leader",
@@ -1332,7 +2612,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "human",
+        "warrior"
+      ],
+      "color": "red",
+      "manaValue": 4,
+      "pips": "3R",
+      "tags": [
+        "green",
+        "evasion"
+      ]
     },
     {
       "name": "Steelbane",
@@ -1340,7 +2630,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "dragon"
+      ],
+      "color": "red",
+      "manaValue": 8,
+      "pips": "6RR",
+      "tags": [
+        "evasion",
+        "protection",
+        "bomb"
+      ]
     },
     {
       "name": "Tamed Dragon",
@@ -1348,7 +2648,15 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "dragon"
+      ],
+      "color": "red",
+      "manaValue": 4,
+      "pips": "3R",
+      "tags": [
+        "evasion"
+      ]
     },
     {
       "name": "Tawney's Showgirls",
@@ -1356,7 +2664,20 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "human",
+        "rogue"
+      ],
+      "color": "red",
+      "manaValue": 4,
+      "pips": "2RR",
+      "tags": [
+        "equipment",
+        "standoff",
+        "aggro",
+        "protection",
+        "bomb"
+      ]
     },
     {
       "name": "Velocirooster",
@@ -1364,7 +2685,18 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "bird",
+        "dinosaur"
+      ],
+      "color": "red",
+      "manaValue": 1,
+      "pips": "R",
+      "tags": [
+        "white",
+        "aggro",
+        "evasion"
+      ]
     },
     {
       "name": "Wandering Ronin",
@@ -1372,7 +2704,17 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "human",
+        "samurai"
+      ],
+      "color": "red",
+      "manaValue": 5,
+      "pips": "4R",
+      "tags": [
+        "standoff",
+        "aggro"
+      ]
     },
     {
       "name": "Wolf Mind",
@@ -1380,7 +2722,14 @@
       "types": [
         "enchantment"
       ],
-      "color": "red"
+      "color": "red",
+      "manaValue": 4,
+      "pips": "3R",
+      "tags": [
+        "wolf",
+        "advantage",
+        "isCreature"
+      ]
     },
     {
       "name": "Wolfdancer",
@@ -1388,15 +2737,39 @@
       "types": [
         "creature"
       ],
-      "color": "red"
+      "subtypes": [
+        "wolf",
+        "shaman"
+      ],
+      "color": "red",
+      "manaValue": 3,
+      "pips": "2R",
+      "tags": [
+        "wolf",
+        "aggro"
+      ]
     },
     {
       "name": "Ace Holden, Dragon Slayer",
       "rarity": "rare",
+      "supertypes":[
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "soldier"
+      ],
+      "color": "green",
+      "manaValue": 4,
+      "pips": "2GG",
+      "tags": [
+        "graveyard",
+        "protection",
+        "bomb"
+      ]
     },
     {
       "name": "Battle Hopper",
@@ -1405,7 +2778,15 @@
         "artifact",
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "insect"
+      ],
+      "color": "green",
+      "manaValue": 4,
+      "pips": "3G",
+      "tags": [
+        "defense"
+      ]
     },
     {
       "name": "Bushwhack",
@@ -1413,7 +2794,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "ramp",
+        "removal"
+      ]
     },
     {
       "name": "Cactus Bull",
@@ -1421,7 +2808,16 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "plant",
+        "ox"
+      ],
+      "color": "green",
+      "manaValue": 2,
+      "pips": "1G",
+      "tags": [
+        "ramp"
+      ]
     },
     {
       "name": "Centaurs of the Ozuawe",
@@ -1429,7 +2825,18 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "centaur",
+        "warrior"
+      ],
+      "color": "green",
+      "manaValue": 3,
+      "pips": "2G",
+      "tags": [
+        "centaur",
+        "aggro",
+        "evasion"
+      ]
     },
     {
       "name": "Dedicated Courier",
@@ -1437,7 +2844,17 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "scout"
+      ],
+      "color": "green",
+      "manaValue": 4,
+      "pips": "3G",
+      "tags": [
+        "blue",
+        "advantage"
+      ]
     },
     {
       "name": "Deer Who Touches The Sky",
@@ -1445,7 +2862,18 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "elk",
+        "giant"
+      ],
+      "color": "green",
+      "manaValue": 7,
+      "pips": "4GGG",
+      "tags": [
+        "vision",
+        "evasion",
+        "bomb"
+      ]
     },
     {
       "name": "Desert Cockatrice",
@@ -1453,7 +2881,16 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "cockatrice"
+      ],
+      "color": "green",
+      "manaValue": 2,
+      "pips": "1G",
+      "tags": [
+        "black",
+        "reflex"
+      ]
     },
     {
       "name": "Desert Monitor",
@@ -1461,7 +2898,18 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "lizard",
+        "plant"
+      ],
+      "color": "green",
+      "manaValue": 6,
+      "pips": "4GG",
+      "tags": [
+        "ramp",
+        "land",
+        "graveyard"
+      ]
     },
     {
       "name": "Druid of Helawa",
@@ -1469,7 +2917,17 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "druid"
+      ],
+      "color": "green",
+      "manaValue": 3,
+      "pips": "2G",
+      "tags": [
+        "wolf",
+        "graveyard"
+      ]
     },
     {
       "name": "Disgruntled Moose",
@@ -1477,7 +2935,15 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "elk"
+      ],
+      "color": "green",
+      "manaValue": 7,
+      "pips": "6G",
+      "tags": [
+        "evasion"
+      ]
     },
     {
       "name": "Explore",
@@ -1485,7 +2951,12 @@
       "types": [
         "sorcery"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "ramp"
+      ]
     },
     {
       "name": "Frontier Widow",
@@ -1493,15 +2964,43 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "farmer"
+      ],
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "farmAnimals",
+        "landAuras",
+        "protection"
+      ]
     },
     {
       "name": "Grandmother Spider",
       "rarity": "mythic",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "spider",
+        "spirit"
+      ],
+      "color": "green",
+      "manaValue": 3,
+      "pips": "1GG",
+      "tags": [
+        "vision",
+        "spider",
+        "defense",
+        "advantage",
+        "graveyard",
+        "bomb"
+      ]
     },
     {
       "name": "Helawa, Protector of Nature",
@@ -1509,7 +3008,16 @@
       "types": [
         "planeswalker"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 6,
+      "pips": "4GG",
+      "tags": [
+        "plant",
+        "defense",
+        "graveyard",
+        "protection",
+        "bomb"
+      ]
     },
     {
       "name": "Helawa's Call",
@@ -1517,7 +3025,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "vision",
+        "advantage",
+        "ramp"
+      ]
     },
     {
       "name": "Helawa's Sleep",
@@ -1525,7 +3040,13 @@
       "types": [
         "instant"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "vision",
+        "graveyard"
+      ]
     },
     {
       "name": "Karakwa's Ambusher",
@@ -1533,7 +3054,17 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "scout"
+      ],
+      "color": "green",
+      "manaValue": 4,
+      "pips": "3G",
+      "tags": [
+        "reflex",
+        "graveyard"
+      ]
     },
     {
       "name": "Kayeri War Bear",
@@ -1541,7 +3072,17 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "bear",
+        "warrior"
+      ],
+      "color": "green",
+      "manaValue": 5,
+      "pips": "3GG",
+      "tags": [
+        "vision",
+        "evasion"
+      ]
     },
     {
       "name": "Lumberwood Arachnid",
@@ -1549,7 +3090,15 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "spider"
+      ],
+      "color": "green",
+      "manaValue": 5,
+      "pips": "3GG",
+      "tags": [
+        "defense"
+      ]
     },
     {
       "name": "Makade Spirit Summoner",
@@ -1557,7 +3106,17 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "shaman"
+      ],
+      "color": "green",
+      "manaValue": 3,
+      "pips": "1GG",
+      "tags": [
+        "reflex",
+        "blue"
+      ]
     },
     {
       "name": "Mountain Man",
@@ -1565,7 +3124,17 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "scout"
+      ],
+      "color": "green",
+      "manaValue": 2,
+      "pips": "1G",
+      "tags": [
+        "gruul",
+        "ramp"
+      ]
     },
     {
       "name": "Naaki Sigil",
@@ -1573,7 +3142,13 @@
       "types": [
         "enchantment"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 2,
+      "pips": "1G",
+      "tags": [
+        "defense",
+        "protection"
+      ]
     },
     {
       "name": "Nugget-Tusk Hog",
@@ -1581,7 +3156,17 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "boar"
+      ],
+      "color": "green",
+      "manaValue": 4,
+      "pips": "3G",
+      "tags": [
+        "ramp",
+        "farmAnimals",
+        "evasion"
+      ]
     },
     {
       "name": "Old Wood Apprentice",
@@ -1589,7 +3174,16 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "elk",
+        "shaman"
+      ],
+      "color": "green",
+      "manaValue": 2,
+      "pips": "1G",
+      "tags": [
+        "plant"
+      ]
     },
     {
       "name": "Orchard Tending",
@@ -1597,7 +3191,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 5,
+      "pips": "3GG",
+      "tags": [
+        "ramp",
+        "advantage"
+      ]
     },
     {
       "name": "Ozuawe Sentinel",
@@ -1605,7 +3205,18 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "elk",
+        "warrior"
+      ],
+      "color": "green",
+      "manaValue": 3,
+      "pips": "2G",
+      "tags": [
+        "white",
+        "reflex",
+        "graveyard"
+      ]
     },
     {
       "name": "Prairie Tornado",
@@ -1613,7 +3224,12 @@
       "types": [
         "instant"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 4,
+      "pips": "2GG",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Prismatic Gust",
@@ -1621,7 +3237,12 @@
       "types": [
         "instant"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 3,
+      "pips": "2G",
+      "tags": [
+        "removal"
+      ]
     },
     {
       "name": "Rattler Wurm",
@@ -1629,7 +3250,15 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "wurm"
+      ],
+      "color": "green",
+      "manaValue": 5,
+      "pips": "4G",
+      "tags": [
+        "protection"
+      ]
     },
     {
       "name": "Snapping Jaw",
@@ -1637,7 +3266,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 2,
+      "pips": "1G",
+      "tags": [
+        "wolf",
+        "reflex",
+        "red"
+      ]
     },
     {
       "name": "Spacious Skies",
@@ -1645,15 +3281,32 @@
       "types": [
         "enchantment"
       ],
-      "color": "green"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "green",
+      "manaValue": 3,
+      "pips": "2G",
+      "tags": [
+        "ramp",
+        "landAuras"
+      ]
     },
     {
       "name": "Sudden Growth",
       "rarity": "common",
       "types": [
-        "instant"
+        "enchantment"
       ],
-      "color": "green"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "landAuras"
+      ]
     },
     {
       "name": "Tremorwurm Infestation",
@@ -1661,7 +3314,17 @@
       "types": [
         "enchantment"
       ],
-      "color": "green"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "landAuras",
+        "isCreature",
+        "bomb"
+      ]
     },
     {
       "name": "Tumbleweed Elemental",
@@ -1669,15 +3332,33 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "plant"
+      ],
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "black",
+        "graveyard"
+      ]
     },
     {
-      "name": "Verdant Fields",
+      "name": "???",
       "rarity": "uncommon",
       "types": [
         "enchantment"
       ],
-      "color": "green"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "green",
+      "manaValue": 1,
+      "pips": "G",
+      "tags": [
+        "reflex",
+        "landAuras"
+      ]
     },
     {
       "name": "Wardens of the Wild",
@@ -1685,7 +3366,18 @@
       "types": [
         "sorcery"
       ],
-      "color": "green"
+      "subtypes": [
+        "ox",
+        "wolf"
+      ],
+      "color": "green",
+      "manaValue": 3,
+      "pips": "2G",
+      "tags": [
+        "reflex",
+        "white",
+        "isCreature"
+      ]
     },
     {
       "name": "Wolf's Howl",
@@ -1693,7 +3385,14 @@
       "types": [
         "enchantment"
       ],
-      "color": "green"
+      "color": "green",
+      "manaValue": 3,
+      "pips": "2G",
+      "tags": [
+        "wolf",
+        "vision",
+        "isCreature"
+      ]
     },
     {
       "name": "Wolfkin Avenger",
@@ -1701,7 +3400,18 @@
       "types": [
         "creature"
       ],
-      "color": "green"
+      "subtypes": [
+        "human",
+        "warrior"
+      ],
+      "color": "green",
+      "manaValue": 7,
+      "pips": "5GG",
+      "tags": [
+        "wolf",
+        "vision",
+        "bomb"
+      ]
     },
     {
       "name": "Wolfkin Bond",
@@ -1709,7 +3419,16 @@
       "types": [
         "enchantment"
       ],
-      "color": "green"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "green",
+      "manaValue": 5,
+      "pips": "4G",
+      "tags": [
+        "wolf",
+        "isCreature"
+      ]
     },
     {
       "name": "Asigati Matron",
@@ -1717,7 +3436,18 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "human",
+        "shaman"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2WU",
+      "tags": [
+        "vision",
+        "advantage",
+        "azorius"
+      ]
     },
     {
       "name": "Bloodshot Mercenary",
@@ -1725,23 +3455,66 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "vampire",
+        "rogue"
+      ],
+      "color": "multicolor",
+      "manaValue": 3,
+      "pips": "1BR",
+      "tags": [
+        "ramp",
+        "rakdos",
+        "aggro",
+        "removal"
+      ]
     },
     {
-      "name": "Bounty Scavenger",
+      "name": "Bill ‘The Scavenger’ McLeod",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "bird",
+        "rogue"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2BW",
+      "tags": [
+        "legendary",
+        "renown",
+        "orzhov",
+        "advantage",
+        "bomb"
+      ]
     },
     {
       "name": "Brother Wolf",
       "rarity": "mythic",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "spirit",
+        "wolf"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2RG",
+      "tags": [
+        "gruul",
+        "wolf",
+        "vision",
+        "bomb"
+      ]
     },
     {
       "name": "Cactus Drake",
@@ -1749,7 +3522,19 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "plant",
+        "dragon"
+      ],
+      "color": "multicolor",
+      "manaValue": 6,
+      "pips": "3RRG",
+      "tags": [
+        "ramp",
+        "gruul",
+        "removal",
+        "bomb"
+      ]
     },
     {
       "name": "Canyon Holdup",
@@ -1757,7 +3542,14 @@
       "types": [
         "sorcery"
       ],
-      "color": "multicolor"
+      "color": "multicolor",
+      "manaValue": 2,
+      "pips": "BR",
+      "tags": [
+        "discard",
+        "ramp",
+        "rakdos"
+      ]
     },
     {
       "name": "Desert Sheep",
@@ -1765,7 +3557,17 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "sheep"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "1GGW",
+      "tags": [
+        "selesnya",
+        "landAuras",
+        "removal"
+      ]
     },
     {
       "name": "Gaile's Retreat",
@@ -1773,7 +3575,13 @@
       "types": [
         "instant"
       ],
-      "color": "multicolor"
+      "color": "multicolor",
+      "manaValue": 2,
+      "pips": "GU",
+      "tags": [
+        "removal",
+        "simic"
+      ]
     },
     {
       "name": "Guthrum Trike Rider",
@@ -1781,7 +3589,19 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "human",
+        "dinosaur",
+        "scout"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2GU",
+      "tags": [
+        "spellslinger",
+        "evasion",
+        "simic"
+      ]
     },
     {
       "name": "Hex Hustlers",
@@ -1789,7 +3609,18 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "human",
+        "rogue"
+      ],
+      "color": "multicolor",
+      "manaValue": 3,
+      "pips": "UUB",
+      "tags": [
+        "discard",
+        "straight",
+        "dimir"
+      ]
     },
     {
       "name": "Helawa's Snare",
@@ -1797,7 +3628,13 @@
       "types": [
         "sorcery"
       ],
-      "color": "multicolor"
+      "color": "multicolor",
+      "manaValue": 2,
+      "pips": "BG",
+      "tags": [
+        "removal",
+        "golgari"
+      ]
     },
     {
       "name": "Hot Springs Beast",
@@ -1805,7 +3642,18 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "horror"
+      ],
+      "color": "multicolor",
+      "manaValue": 6,
+      "pips": "4UB",
+      "tags": [
+        "dimir",
+        "vision",
+        "discard",
+        "protection"
+      ]
     },
     {
       "name": "Karakwa's Ride",
@@ -1813,7 +3661,14 @@
       "types": [
         "instant"
       ],
-      "color": "multicolor"
+      "color": "multicolor",
+      "manaValue": 2,
+      "pips": "RW",
+      "tags": [
+        "spellslinger",
+        "boros",
+        "aggro"
+      ]
     },
     {
       "name": "Leonin Visionary",
@@ -1821,7 +3676,18 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "cat",
+        "shaman"
+      ],
+      "color": "multicolor",
+      "manaValue": 2,
+      "pips": "WU",
+      "tags": [
+        "azorius",
+        "vision",
+        "+1/+1"
+      ]
     },
     {
       "name": "Lewis's Seduction",
@@ -1829,7 +3695,16 @@
       "types": [
         "enchantment"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2UB",
+      "tags": [
+        "dimir",
+        "vampire"
+      ]
     },
     {
       "name": "Lumberwood Man-Trap",
@@ -1837,23 +3712,55 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "plant"
+      ],
+      "color": "multicolor",
+      "manaValue": 5,
+      "pips": "3BG",
+      "tags": [
+        "golgari",
+        "plant",
+        "creature"
+      ]
     },
     {
       "name": "Marion Hawthorne, Naturalist",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "centaur",
+        "scholar"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2GU",
+      "tags": [
+        "simic",
+        "+1/+1",
+        "reflex"
+      ]
     },
     {
-      "name": "Mass Vision",
+      "name": "Recreate",
       "rarity": "mythic",
       "types": [
         "sorcery"
       ],
-      "color": "multicolor"
+      "color": "multicolor",
+      "manaValue": 5,
+      "pips": "2WWU",
+      "tags": [
+        "azorius",
+        "lockdown",
+        "removal",
+        "bomb"
+      ]
     },
     {
       "name": "Naaki Enchantress",
@@ -1861,15 +3768,42 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "human",
+        "shaman"
+      ],
+      "color": "multicolor",
+      "manaValue": 3,
+      "pips": "1GW",
+      "tags": [
+        "selesnya",
+        "aura",
+        "landAuras",
+        "advantage"
+      ]
     },
     {
-      "name": "Racoon Bandito",
+      "name": "Ray the Racoon",
       "rarity": "uncommon",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "beast",
+        "rogue"
+      ],
+      "color": "multicolor",
+      "manaValue": 3,
+      "pips": "1WB",
+      "tags": [
+        "orzhov",
+        "legendary",
+        "removal",
+        "protection"
+      ]
     },
     {
       "name": "Raging Dustdevil",
@@ -1877,7 +3811,18 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "elemental"
+      ],
+      "color": "multicolor",
+      "manaValue": 3,
+      "pips": "1UR",
+      "tags": [
+        "izzet",
+        "reflex",
+        "evasion",
+        "+1/+1"
+      ]
     },
     {
       "name": "Rallyridge Angel",
@@ -1885,7 +3830,20 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "angel",
+        "soldier"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2WR",
+      "tags": [
+        "boros",
+        "spellslinger",
+        "evasion",
+        "modified",
+        "removal"
+      ]
     },
     {
       "name": "Roselyn, Grieving",
@@ -1893,7 +3851,15 @@
       "types": [
         "planeswalker"
       ],
-      "color": "multicolor"
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2WR",
+      "tags": [
+        "boros",
+        "aggro",
+        "protection",
+        "bomb"
+      ]
     },
     {
       "name": "Skeletal Centaur",
@@ -1901,7 +3867,19 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "skeleton",
+        "centaur"
+      ],
+      "color": "multicolor",
+      "manaValue": 4,
+      "pips": "2BG",
+      "tags": [
+        "golgari",
+        "reflex",
+        "graveyard",
+        "protection"
+      ]
     },
     {
       "name": "Stonefellow's Legacy",
@@ -1909,7 +3887,18 @@
       "types": [
         "enchantment"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "multicolor",
+      "manaValue": 3,
+      "pips": "1WB",
+      "tags": [
+        "orzhov",
+        "landAuras",
+        "removal",
+        "removal"
+      ]
     },
     {
       "name": "Tinman Duo",
@@ -1918,7 +3907,17 @@
         "artifact",
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "construct"
+      ],
+      "color": "multicolor",
+      "manaValue": 5,
+      "pips": "3UR",
+      "tags": [
+        "izzet",
+        "artifactCreature",
+        "graveyard"
+      ]
     },
     {
       "name": "Visionary Expansion",
@@ -1926,23 +3925,60 @@
       "types": [
         "enchantment"
       ],
-      "color": "multicolor"
+      "color": "multicolor",
+      "manaValue": 5,
+      "pips": "3UR",
+      "tags": [
+        "vision",
+        "izzet",
+        "bomb"
+      ]
     },
     {
       "name": "Vivian Allston",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "vampire",
+        "noble"
+      ],
+      "color": "multicolor",
+      "manaValue": 5,
+      "pips": "2BBR",
+      "tags": [
+        "vampire",
+        "standoff",
+        "removal",
+        "creature",
+        "protection",
+        "bomb",
+        "rakdos"
+      ]
     },
     {
-      "name": "Wide Open Spaces",
+      "name": "Verdant Fields",
       "rarity": "rare",
       "types": [
         "enchantment"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "aura"
+      ],
+      "color": "multicolor",
+      "manaValue": 2,
+      "pips": "GW",
+      "tags": [
+        "selesnya",
+        "landAuras",
+        "farmAnimals",
+        "ramp",
+        "creature"
+      ]
     },
     {
       "name": "Wolfkind Messenger",
@@ -1950,7 +3986,17 @@
       "types": [
         "creature"
       ],
-      "color": "multicolor"
+      "subtypes": [
+        "wolf"
+      ],
+      "color": "multicolor",
+      "manaValue": 3,
+      "pips": "1RG",
+      "tags": [
+        "gruul",
+        "wolf",
+        "evasion"
+      ]
     },
     {
       "name": "Arcane Daguerreotype",
@@ -1958,15 +4004,27 @@
       "types": [
         "artifact"
       ],
-      "color": "colorless"
+      "subtypes": [
+        "equipment"
+      ],
+      "color": "colorless",
+      "manaValue": 5,
+      "tags": [
+        "cantrip"
+      ]
     },
     {
-      "name": "Asigait Flute",
+      "name": "Asigati Flute",
       "rarity": "rare",
       "types": [
         "artifact"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "manaValue": 2,
+      "tags": [
+        "landAuras",
+        "advantage"
+      ]
     },
     {
       "name": "Card Counter",
@@ -1975,7 +4033,14 @@
         "artifact",
         "creature"
       ],
-      "color": "colorless"
+      "subtypes": [
+        "rogue"
+      ],
+      "color": "colorless",
+      "manaValue": 5,
+      "tags": [
+        "straight"
+      ]
     },
     {
       "name": "Emergency Flare Gun",
@@ -1983,104 +4048,15 @@
       "types": [
         "artifact"
       ],
-      "color": "colorless"
-    },
-    {
-      "name": "Hyastee Totem",
-      "rarity": "uncommon",
-      "types": [
-        "artifact"
+      "subtypes": [
+        "equipment"
       ],
-      "color": "colorless"
-    },
-    {
-      "name": "Moxenite Crossbow",
-      "rarity": "common",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Mug of Coffee",
-      "rarity": "common",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Planar Canoe",
-      "rarity": "uncommon",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Prairie Schooner",
-      "rarity": "common",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Primal Nature, a Manuscript",
-      "rarity": "mythic",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Prospector's Pick",
-      "rarity": "common",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Ranchhand's Gear",
-      "rarity": "common",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Soul Encapsulator",
-      "rarity": "rare",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Soulscour Ninegun",
-      "rarity": "uncommon",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Steamboat Factory",
-      "rarity": "rare",
-      "types": [
-        "artifact"
-      ],
-      "color": "colorless"
-    },
-    {
-      "name": "Steamboat Tortoise",
-      "rarity": "rare",
-      "types": [
-        "artifact",
-        "creature"
-      ],
-      "color": "colorless"
+      "color": "colorless",
+      "manaValue": 1,
+      "tags": [
+        "cantrip",
+        "renown"
+      ]
     },
     {
       "name": "Entrancing Organ",
@@ -2088,16 +4064,139 @@
       "types": [
         "artifact"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "manaValue": 3,
+      "tags": [
+        "ramp",
+        "fixing"
+      ]
     },
     {
-      "name": "Tinman Birdbane",
+      "name": "Hyastee Totem",
       "rarity": "uncommon",
       "types": [
-        "artifact",
-        "creature"
+        "artifact"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "manaValue": 2,
+      "tags": [
+        "removal",
+        "vision"
+      ]
+    },
+    {
+      "name": "Mug of Coffee",
+      "rarity": "common",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless",
+      "manaValue": 2
+    },
+    {
+      "name": "Prairie Schooner",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "subtypes": [
+        "vehicle"
+      ],
+      "color": "colorless",
+      "manaValue": 2,
+      "tags": [
+        "ramp",
+        "white"
+      ]
+    },
+    {
+      "name": "Primal Nature, a Manuscript",
+      "rarity": "mythic",
+      "supertypes": [
+        "legendary"
+      ],
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless",
+      "manaValue": 4,
+      "tags": [
+        "advantage",
+        "creature"
+      ]
+    },
+    {
+      "name": "Prospector's Pick",
+      "rarity": "common",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless",
+      "manaValue": 3,
+      "tags": [
+        "ramp"
+      ]
+    },
+    {
+      "name": "Ranchhand's Gear",
+      "rarity": "common",
+      "types": [
+        "artifact"
+      ],
+      "subtypes": [
+        "equipment"
+      ],
+      "color": "colorless",
+      "manaValue": 1,
+      "tags": [
+        "landAuras",
+        "farmAnimals",
+        "ramp"
+      ]
+    },
+    {
+      "name": "Soul Encapsulator",
+      "rarity": "rare",
+      "types": [
+        "artifact"
+      ],
+      "color": "colorless",
+      "manaValue": 6,
+      "tags": [
+        "removal",
+        "removal"
+      ]
+    },
+    {
+      "name": "Soulscour Ninegun",
+      "rarity": "uncommon",
+      "types": [
+        "artifact"
+      ],
+      "subtypes": [
+        "equipment"
+      ],
+      "color": "colorless",
+      "manaValue": 2,
+      "tags": [
+        "cantrip"
+      ]
+    },
+    {
+      "name": "Steamboat Factory",
+      "rarity": "rare",
+      "types": [
+        "artifact"
+      ],
+      "subtypes": [
+        "vehicle"
+      ],
+      "color": "colorless",
+      "manaValue": 3,
+      "tags": [
+        "advantage",
+        "tokens"
+      ]
     },
     {
       "name": "Tinman Farmer",
@@ -2106,7 +4205,15 @@
         "artifact",
         "creature"
       ],
-      "color": "colorless"
+      "subtypes": [
+        "farmer"
+      ],
+      "color": "colorless",
+      "manaValue": 4,
+      "tags": [
+        "plant",
+        "farmAnimals"
+      ]
     },
     {
       "name": "Tinman Mayor",
@@ -2115,7 +4222,15 @@
         "artifact",
         "creature"
       ],
-      "color": "colorless"
+      "subtypes": [
+        "noble"
+      ],
+      "color": "colorless",
+      "manaValue": 3,
+      "tags": [
+        "standoff",
+        "ramp"
+      ]
     },
     {
       "name": "Totem Golem",
@@ -2124,7 +4239,16 @@
         "artifact",
         "creature"
       ],
-      "color": "colorless"
+      "subtypes": [
+        "elk"
+      ],
+      "color": "colorless",
+      "manaValue": 6,
+      "tags": [
+        "vision",
+        "azorius",
+        "protection"
+      ]
     },
     {
       "name": "Wisp-Loaded Revolver",
@@ -2132,7 +4256,14 @@
       "types": [
         "artifact"
       ],
-      "color": "colorless"
+      "subtypes": [
+        "equipment"
+      ],
+      "color": "colorless",
+      "manaValue": 2,
+      "tags": [
+        "cantrip"
+      ]
     },
     {
       "name": "Wizard's Balloon",
@@ -2140,15 +4271,29 @@
       "types": [
         "artifact"
       ],
-      "color": "colorless"
+      "subtypes": [
+        "vehicle"
+      ],
+      "color": "colorless",
+      "manaValue": 2,
+      "tags": [
+        "evasion"
+      ]
     },
     {
       "name": "Allston's Manor",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "isCreature",
+        "black"
+      ]
     },
     {
       "name": "Bloodfell Caves",
@@ -2156,7 +4301,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "rakdos"
+      ]
     },
     {
       "name": "Blossoming Sands",
@@ -2164,15 +4312,26 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "selesnya"
+      ]
     },
     {
       "name": "Calamity Junction",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "artifact",
+        "graveyard",
+        "blue"
+      ]
     },
     {
       "name": "Coalition Camp",
@@ -2180,7 +4339,11 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "fixing",
+        "standoff"
+      ]
     },
     {
       "name": "Dismal Backwater",
@@ -2188,15 +4351,26 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "dimir"
+      ]
     },
     {
       "name": "Fort Redemption",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "equipment",
+        "graveyard",
+        "white"
+      ]
     },
     {
       "name": "Jungle Hollow",
@@ -2204,15 +4378,25 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "golgari"
+      ]
     },
     {
       "name": "Karakwa's Stronghold",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "red",
+        "removal"
+      ]
     },
     {
       "name": "Painted Valley",
@@ -2220,7 +4404,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "fixing"
+      ]
     },
     {
       "name": "Rugged Highlands",
@@ -2228,7 +4415,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "gruul"
+      ]
     },
     {
       "name": "Scoured Barrens",
@@ -2236,7 +4426,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "orzhov"
+      ]
     },
     {
       "name": "Swiftwater Cliffs",
@@ -2244,15 +4437,25 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "izzet"
+      ]
     },
     {
-      "name": "The Lumberwoods",
+      "name": "The Lumberwood",
       "rarity": "rare",
+      "supertypes": [
+        "legendary"
+      ],
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "green",
+        "graveyard"
+      ]
     },
     {
       "name": "Thornwood Falls",
@@ -2260,7 +4463,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "simic"
+      ]
     },
     {
       "name": "Train Route",
@@ -2268,7 +4474,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags":[
+        "fixing"
+      ]
     },
     {
       "name": "Tranquil Cove",
@@ -2276,7 +4485,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "azorius"
+      ]
     },
     {
       "name": "Unspoiled Wilderness",
@@ -2284,7 +4496,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "fixing"
+      ]
     },
     {
       "name": "Wind-Scarred Crag",
@@ -2292,7 +4507,10 @@
       "types": [
         "land"
       ],
-      "color": "colorless"
+      "color": "colorless",
+      "tags": [
+        "boros"
+      ]
     }
   ]
 }

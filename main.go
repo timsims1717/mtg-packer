@@ -46,15 +46,25 @@ func main() {
 		}
 	}
 	PrintPacks(packs)
-	err = createCSVs(packs, *args.playerCount, *args.outFile)
 	if err != nil {
 		panic(err)
 	}
+	if !*args.noDraft {
+		players := simulateDraft(packs, *args.playerCount, *args.packCount, len(set.Slots), &set, *args.simulate)
+		PrintDraft(players)
+		err = createPlayersCSV(players, *args.outFile, *args.packCount*len(set.Slots))
+		if err != nil {
+			panic(err)
+		}
+	}
+	err = createPackCSVs(packs, *args.playerCount, *args.outFile)
 }
 
 var args struct {
 	packCount   *int
 	playerCount *int
+	noDraft     *bool
+	simulate    *bool
 	filename    *string
 	outFile     *string
 }
@@ -62,6 +72,8 @@ var args struct {
 func init() {
 	args.packCount = flag.Int("packs", 3, "number of packs for each player")
 	args.playerCount = flag.Int("players", 8, "number of players")
+	args.noDraft = flag.Bool("nodraft", false, "turn off the draft")
+	args.simulate = flag.Bool("simulate", false, "turn on the draft algorithm")
 	args.filename = flag.String("setfile", "", "name of the mtg set input file")
 	args.outFile = flag.String("outfile", "pack", "prefix of the output files")
 }

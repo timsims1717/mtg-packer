@@ -1,7 +1,10 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
+	"os"
+	"strconv"
 	"strings"
 )
 
@@ -55,4 +58,77 @@ func PrintPacks(packs []Pack) {
 			fmt.Printf("%s\n", card.Name)
 		}
 	}
+}
+
+func PrintDraft(players []*Player) {
+	for _, player := range players {
+		PrintPackFull(player.CurrPicks, fmt.Sprintf("Player %d\n", player.PlayerNum+1))
+	}
+}
+
+func PrintPackFull(cards []Card, head string) {
+	fmt.Println("===================================")
+	fmt.Println(head)
+	fmt.Println("-----------------------------------")
+	for _, card := range cards {
+		fmt.Println(FullCardString(card, -1))
+	}
+	fmt.Println("===================================")
+}
+
+func FullCardString(card Card, i int) string {
+	var sb strings.Builder
+	sb.WriteString(card.Name)
+	sb.WriteString(" ~")
+	for _, st := range card.SuperTypes {
+		sb.WriteString(" ")
+		sb.WriteString(strings.ToTitle(st))
+	}
+	for _, st := range card.Types {
+		sb.WriteString(" ")
+		sb.WriteString(strings.ToTitle(st))
+	}
+	start := true
+	for _, st := range card.SubTypes {
+		if start {
+			sb.WriteString(" - ")
+		} else {
+			sb.WriteString(" ")
+		}
+		sb.WriteString(strings.ToTitle(st))
+		start = false
+	}
+	title := Truncate(sb.String(), 40)
+	mv := card.Pips
+	if mv == "" {
+		if !StringIn("land", card.Types) {
+			mv = strconv.Itoa(card.ManaValue)
+		} else {
+			mv = "LAND"
+		}
+	}
+	if i > 0 {
+		return fmt.Sprintf("%03d: %6s - %-40s", i, mv, title)
+	} else {
+		return fmt.Sprintf("%6s - %-40s", mv, title)
+	}
+}
+
+func ConsoleInput(msg string) string {
+	reader := bufio.NewReader(os.Stdin)
+	fmt.Print(msg)
+	input, _ := reader.ReadString('\n')
+	return strings.Replace(input, "\n", "", -1)
+}
+
+func Truncate(str string, length int) string {
+	if length <= 0 {
+		return ""
+	}
+
+	orgLen := len(str)
+	if orgLen <= length {
+		return str
+	}
+	return str[:length]
 }
