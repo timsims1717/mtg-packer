@@ -58,29 +58,12 @@ func pickCardPerson(player *Player, currPack Pack, packNum, pickNum int) int {
 	fmt.Println("===================================")
 	fmt.Printf("== Player %d - Pack %d - Pick %d ==\n", player.PlayerNum+1, packNum, pickNum)
 	if len(player.CurrPicks) > 0 {
-		PrintPackFull(player.CurrPicks, "Current Picks")
+		PrintCardList(player.CurrPicks, "Current Picks")
 	} else {
 		fmt.Println("===================================")
 	}
 	for {
-		if len(currPack) < 6 {
-			for i, card := range currPack {
-				s := FullCardString(card, i+1)
-				fmt.Println(s)
-			}
-		} else {
-			half := len(currPack)/2 + 1
-			for i := 0; i < half; i++ {
-				var s2 string
-				c1 := currPack[i]
-				s1 := FullCardString(c1, i+1)
-				if i+half < len(currPack) {
-					c2 := currPack[i+half]
-					s2 = FullCardString(c2, i+half+1)
-				}
-				fmt.Printf("%54s | %54s\n", s1, s2)
-			}
-		}
+		PrintCardList(currPack, "")
 		fmt.Println()
 		var pickMsg string
 		if len(currPack) > 1 {

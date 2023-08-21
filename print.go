@@ -76,6 +76,51 @@ func PrintPackFull(cards []Card, head string) {
 	fmt.Println("===================================")
 }
 
+func PrintCardList(cards []Card, head string) {
+	if head != "" {
+		fmt.Println("===================================")
+		fmt.Println(head)
+		fmt.Println("-----------------------------------")
+	}
+	if len(cards) < 9 {
+		for i, card := range cards {
+			s := FullCardString(card, i+1)
+			fmt.Println(s)
+		}
+	} else if len(cards) < 17 {
+		half := len(cards)/2 + 1
+		for i := 0; i < half; i++ {
+			var s2 string
+			c1 := cards[i]
+			s1 := FullCardString(c1, i+1)
+			if i+half < len(cards) {
+				c2 := cards[i+half]
+				s2 = FullCardString(c2, i+half+1)
+			}
+			fmt.Printf("%54s | %54s\n", s1, s2)
+		}
+	} else {
+		third := len(cards)/3 + 1
+		for i := 0; i < third; i++ {
+			var s2, s3 string
+			c1 := cards[i]
+			s1 := FullCardString(c1, i+1)
+			if i+third < len(cards) {
+				c2 := cards[i+third]
+				s2 = FullCardString(c2, i+third+1)
+			}
+			if i+third+third < len(cards) {
+				c3 := cards[i+third+third]
+				s3 = FullCardString(c3, i+third+1)
+			}
+			fmt.Printf("%54s | %54s | %54s\n", s1, s2, s3)
+		}
+	}
+	if head != "" {
+		fmt.Println("===================================")
+	}
+}
+
 func FullCardString(card Card, i int) string {
 	var sb strings.Builder
 	sb.WriteString(card.Name)

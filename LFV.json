@@ -233,8 +233,8 @@
         "aura"
       ],
       "color": "white",
-      "manaValue": 3,
-      "pips": "1WW",
+      "manaValue": 4,
+      "pips": "2WW",
       "tags": [
         "landAuras",
         "bomb"
@@ -265,7 +265,7 @@
       ],
       "color": "white",
       "manaValue": 2,
-      "pips": "WW",
+      "pips": "1W",
       "tags": [
         "farmAnimals",
         "aggro",
@@ -326,8 +326,8 @@
         "instant"
       ],
       "color": "white",
-      "manaValue": 4,
-      "pips": "2WW",
+      "manaValue": 2,
+      "pips": "1W",
       "tags": [
         "standoff",
         "aggro"
@@ -562,8 +562,8 @@
         "aura"
       ],
       "color": "white",
-      "manaValue": 3,
-      "pips": "2W",
+      "manaValue": 2,
+      "pips": "1W",
       "tags": [
         "landAuras",
         "fish"
@@ -629,8 +629,8 @@
         "instant"
       ],
       "color": "white",
-      "manaValue": 2,
-      "pips": "1W",
+      "manaValue": 1,
+      "pips": "W",
       "tags": [
         "defense",
         "protection"
@@ -832,8 +832,8 @@
         "artifact"
       ],
       "color": "blue",
-      "manaValue": 2,
-      "pips": "UU",
+      "manaValue": 1,
+      "pips": "U",
       "tags": [
         "spellslinger",
         "bomb"
@@ -1050,7 +1050,7 @@
       ],
       "color": "blue",
       "manaValue": 5,
-      "pips": "3UU",
+      "pips": "4U",
       "tags": [
         "spellslinger",
         "dimir"
@@ -1434,22 +1434,22 @@
       ]
     },
     {
-      "name": "Alpha Mothman",
-      "rarity": "rare",
+      "name": "Pine Gulch Posse",
+      "rarity": "common",
       "types": [
         "creature"
       ],
       "subtypes": [
-        "insect",
-        "horror"
+        "human",
+        "rogue"
       ],
       "color": "black",
-      "manaValue": 3,
-      "pips": "1BB"
+      "manaValue": 2,
+      "pips": "1B"
     },
     {
       "name": "Asigati Raider",
-      "rarity": "uncommon",
+      "rarity": "common",
       "types": [
         "creature"
       ],
@@ -1514,8 +1514,8 @@
         "scout"
       ],
       "color": "black",
-      "manaValue": 3,
-      "pips": "2B",
+      "manaValue": 2,
+      "pips": "1B",
       "tags": [
         "vision"
       ]
@@ -1569,7 +1569,7 @@
       ],
       "color": "black",
       "manaValue": 1,
-      "pips": "B",
+      "pips": "XB",
       "tags": [
         "standoff",
         "removal"
@@ -1605,7 +1605,7 @@
       ],
       "color": "black",
       "manaValue": 5,
-      "pips": "3BB",
+      "pips": "4B",
       "tags": [
         "farmAnimals",
         "evasion"
@@ -1756,8 +1756,11 @@
       ]
     },
     {
-      "name": "Pine Gulch Naga",
-      "rarity": "common",
+      "name": "Hattie ‘Snake Eyes’ Shelton",
+      "rarity": "uncommon",
+      "superTypes": [
+        "legendary"
+      ],
       "types": [
         "creature"
       ],
@@ -1792,7 +1795,7 @@
       ]
     },
     {
-      "name": "Raul Costa, Pine Gulch Leader",
+      "name": "Raul Costa",
       "rarity": "rare",
       "supertypes": [
         "legendary"
@@ -1807,7 +1810,7 @@
       ],
       "color": "black",
       "manaValue": 5,
-      "pips": "3BB",
+      "pips": "4B",
       "tags": [
         "renown",
         "creature",
@@ -1830,7 +1833,7 @@
     },
     {
       "name": "Reader of Bones",
-      "rarity": "common",
+      "rarity": "uncommon",
       "types": [
         "creature"
       ],
@@ -1840,7 +1843,7 @@
       ],
       "color": "black",
       "manaValue": 3,
-      "pips": "1BB",
+      "pips": "2B",
       "tags": [
         "discard",
         "blue"
@@ -1871,7 +1874,7 @@
       ],
       "color": "black",
       "manaValue": 4,
-      "pips": "2BB",
+      "pips": "3B",
       "tags": [
         "standoff",
         "aggro"
@@ -1879,7 +1882,7 @@
     },
     {
       "name": "Shadow Crawlers",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "types": [
         "creature"
       ],
@@ -2015,8 +2018,8 @@
         "elk"
       ],
       "color": "black",
-      "manaValue": 2,
-      "pips": "1B",
+      "manaValue": 3,
+      "pips": "2B",
       "tags": [
         "green"
       ]
@@ -2150,8 +2153,8 @@
         "instant"
       ],
       "color": "red",
-      "manaValue": 4,
-      "pips": "2RR",
+      "manaValue": 3,
+      "pips": "1RR",
       "tags": [
         "modified",
         "removal"
@@ -2183,7 +2186,7 @@
       ],
       "color": "red",
       "manaValue": 2,
-      "pips": "RR",
+      "pips": "1R",
       "tags": [
         "modified",
         "removal"
@@ -2347,7 +2350,7 @@
     },
     {
       "name": "Kayeri Wolf Sister",
-      "rarity": "common",
+      "rarity": "uncommon",
       "types": [
         "creature"
       ],
@@ -2423,7 +2426,7 @@
     },
     {
       "name": "Naaki Watcher",
-      "rarity": "uncommon",
+      "rarity": "common",
       "types": [
         "creature"
       ],
@@ -2452,7 +2455,7 @@
       ],
       "color": "red",
       "manaValue": 6,
-      "pips": "4RR",
+      "pips": "5R",
       "tags": [
         "equipment",
         "graveyard",
@@ -2670,7 +2673,7 @@
       ],
       "color": "red",
       "manaValue": 4,
-      "pips": "2RR",
+      "pips": "3R",
       "tags": [
         "equipment",
         "standoff",
@@ -2904,7 +2907,7 @@
       ],
       "color": "green",
       "manaValue": 6,
-      "pips": "4GG",
+      "pips": "5G",
       "tags": [
         "ramp",
         "land",
@@ -3059,8 +3062,8 @@
         "scout"
       ],
       "color": "green",
-      "manaValue": 4,
-      "pips": "3G",
+      "manaValue": 5,
+      "pips": "4G",
       "tags": [
         "reflex",
         "graveyard"
@@ -3094,8 +3097,8 @@
         "spider"
       ],
       "color": "green",
-      "manaValue": 5,
-      "pips": "3GG",
+      "manaValue": 3,
+      "pips": "2G",
       "tags": [
         "defense"
       ]
@@ -3220,19 +3223,6 @@
     },
     {
       "name": "Prairie Tornado",
-      "rarity": "rare",
-      "types": [
-        "instant"
-      ],
-      "color": "green",
-      "manaValue": 4,
-      "pips": "2GG",
-      "tags": [
-        "removal"
-      ]
-    },
-    {
-      "name": "Prismatic Gust",
       "rarity": "common",
       "types": [
         "instant"
@@ -3240,6 +3230,19 @@
       "color": "green",
       "manaValue": 3,
       "pips": "2G",
+      "tags": [
+        "removal"
+      ]
+    },
+    {
+      "name": "Prismatic Gust",
+      "rarity": "rare",
+      "types": [
+        "instant"
+      ],
+      "color": "green",
+      "manaValue": 2,
+      "pips": "1G",
       "tags": [
         "removal"
       ]
@@ -3344,7 +3347,7 @@
       ]
     },
     {
-      "name": "???",
+      "name": "Hidden Village",
       "rarity": "uncommon",
       "types": [
         "enchantment"
@@ -3441,8 +3444,8 @@
         "shaman"
       ],
       "color": "multicolor",
-      "manaValue": 4,
-      "pips": "2WU",
+      "manaValue": 3,
+      "pips": "1WU",
       "tags": [
         "vision",
         "advantage",
@@ -3595,8 +3598,8 @@
         "scout"
       ],
       "color": "multicolor",
-      "manaValue": 4,
-      "pips": "2GU",
+      "manaValue": 3,
+      "pips": "1GU",
       "tags": [
         "spellslinger",
         "evasion",
@@ -3716,8 +3719,8 @@
         "plant"
       ],
       "color": "multicolor",
-      "manaValue": 5,
-      "pips": "3BG",
+      "manaValue": 4,
+      "pips": "2BG",
       "tags": [
         "golgari",
         "plant",
@@ -3846,7 +3849,7 @@
       ]
     },
     {
-      "name": "Roselyn, Grieving",
+      "name": "Roselyn, Consumed by Grief",
       "rarity": "mythic",
       "types": [
         "planeswalker"
@@ -3926,8 +3929,8 @@
         "enchantment"
       ],
       "color": "multicolor",
-      "manaValue": 5,
-      "pips": "3UR",
+      "manaValue": 6,
+      "pips": "4UR",
       "tags": [
         "vision",
         "izzet",
@@ -3990,8 +3993,8 @@
         "wolf"
       ],
       "color": "multicolor",
-      "manaValue": 3,
-      "pips": "1RG",
+      "manaValue": 2,
+      "pips": "RG",
       "tags": [
         "gruul",
         "wolf",
@@ -4078,7 +4081,7 @@
         "artifact"
       ],
       "color": "colorless",
-      "manaValue": 2,
+      "manaValue": 3,
       "tags": [
         "removal",
         "vision"
@@ -4209,7 +4212,7 @@
         "farmer"
       ],
       "color": "colorless",
-      "manaValue": 4,
+      "manaValue": 2,
       "tags": [
         "plant",
         "farmAnimals"
